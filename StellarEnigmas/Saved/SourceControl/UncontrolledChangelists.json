@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Gantari-ExtraLight.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Gantari-ExtraLight_Font.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Teko-Light.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Teko-Light_Font.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Teko-Medium.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Teko-Medium_Font.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Widgeds/MainMenu.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Widgeds/MultiplayerScreen_BP.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DD/TAUHT5F3ZJ2CK8LS0XNHRM.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C7/AMKRVGH6ZLQQ4RJFI6XOSS.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/Github-Octicons-Triangle-left-24_512.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Maps/MainMenu-Looby.umap",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Widgeds/SettingsMenu.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/wp12847353-alien-life-wallpapers.uasset",
+				"C:/Belgelerim/Oyun/StellarEnigmas/StellarEnigmas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Sounds/Main_Title__From_Aliens__Cue.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Sounds/Main_Title__From_Aliens_.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Widgeds/MainMenu.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/Sounds/Scary_Voices.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/wallhaven-1pxdo9.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Maps/MainMenu-Looby.umap",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/wallhaven-0qv2w7.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/wallhaven-x8m73z.uasset",
+				"C:/Users/burak/Downloads/StellarEnigmas/StellarEnigmas/Content/ThirdPerson/Blueprints/BackgroundImages/wallhaven-497dxx.uasset"
+			]
+		}
+	]
+}
